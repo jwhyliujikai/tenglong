@@ -3,6 +3,7 @@
     <h1 v-html="msg"></h1>
     <div>test Git</div>
     <div>分支</div>
+    <div>自测git</div>
   </div>
 </template>
 
